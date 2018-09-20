@@ -4,4 +4,3 @@ for i in range(0, 346, 15):
     sin_result = sin(angle_in_radius)
     cos_result = cos(angle_in_radius)
     print(i, '---', round(sin_result, 4), round(cos_result, 4))
-
