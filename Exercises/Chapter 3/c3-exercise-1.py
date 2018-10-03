@@ -1,3 +1,4 @@
 from random import randint
-for i in range(50):
-    print(randint(3,6), end=' ')
+rand_num = randint(1,10)
+for i in range(rand_num):
+    print('your name')
